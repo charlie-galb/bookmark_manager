@@ -1,0 +1,31 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/lib/app.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/spec/features/index_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1603116169
+  }
+}
