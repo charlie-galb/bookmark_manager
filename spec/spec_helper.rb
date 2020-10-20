@@ -1,3 +1,6 @@
+require 'simplecov'
+SimpleCov.start
+
 require_relative './setup_test_database'
 
 ENV['RACK_ENV'] = 'test'
@@ -8,8 +11,6 @@ RSpec.configure do |config|
   end
 end
 
-require 'simplecov'
-SimpleCov.start
 
 require File.join(File.dirname(__FILE__), '..', 'lib', 'app.rb')
 
