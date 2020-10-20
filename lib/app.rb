@@ -1,9 +1,11 @@
 require 'sinatra/base'
+require './model/bookmarks'
+require 'pg'
 
 class BookmarkManager < Sinatra::Base
 
-  get '/' do
-    erb(:index)
+  before do
+    @bookmarks = Bookmarks.all
   end
 
   get '/bookmarks' do
