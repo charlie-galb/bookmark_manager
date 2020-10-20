@@ -1,11 +1,16 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/r34p3r/MAKERS/Bookmark_manager/lib/app.rb": {
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/lib/app.rb": {
         "lines": [
+          1,
+          1,
           1,
           null,
           1,
+          null,
+          1,
+          2,
           null,
           1,
           1,
@@ -19,9 +24,29 @@
           null
         ]
       },
-      "/Users/r34p3r/MAKERS/Bookmark_manager/spec/features/index_spec.rb": {
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/lib/model/bookmarks.rb": {
         "lines": [
           1,
+          null,
+          1,
+          1,
+          5,
+          5,
+          null,
+          0,
+          null,
+          null,
+          5,
+          17,
+          null,
+          null
+        ]
+      },
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/spec/features/features_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
           1,
           1,
           1,
@@ -31,6 +56,13 @@
           1,
           1,
           null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
           1,
           1,
           null,
@@ -38,31 +70,27 @@
           null
         ]
       },
-      "/Users/r34p3r/MAKERS/Bookmark_manager/spec/unit tests/bookmarks_spec.rb": {
+      "/Users/charlesgalbraith/coding/projects/Bookmark_manager/spec/unit tests/bookmarks_spec.rb": {
         "lines": [
           1,
           null,
           1,
-          1,
-          1,
-          null,
           null,
           1,
           1,
           null,
-          null
-        ]
-      },
-      "/Users/r34p3r/MAKERS/Bookmark_manager/lib/model/bookmarks.rb": {
-        "lines": [
           1,
           1,
           1,
+          1,
+          1,
+          1,
+          null,
           null,
           null
         ]
       }
     },
-    "timestamp": 1603118813
+    "timestamp": 1603205681
   }
 }
